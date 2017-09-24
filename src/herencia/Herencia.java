@@ -35,6 +35,8 @@ public class Herencia {
         j.actitud_emp();
         //solo los obreros tienen transporte de la empresa
         ob.tipo_transporte();
+        
+        System.out.println("");
     }
     
 }
