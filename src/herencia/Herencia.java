@@ -37,6 +37,9 @@ public class Herencia {
         ob.tipo_transporte();
         
         System.out.println("modificacion desde la pc");
+        
+        
+        System.out.println("modificacion desde repositorio remoto");
     }
     
 }
